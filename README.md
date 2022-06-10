@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trevorschrotz.
+- 👀 I’m interested in data science, statistics, and programming R / RStudio.
+- 🌱 I’m currently learning machine learning and statistical modeling, which is a lifelong endeavor as there is always something new to learn.
+- 💞️ I’m looking to collaborate on any data sceince projects, particularly those in business and for social and community good.
+- 📫 How to reach me: trevor.schrotz@gmail.com
